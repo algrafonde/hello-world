@@ -8,10 +8,10 @@ For now, this have been the only branches (~~striked~~ means already merged)
 | Branch | Changes | Reason |
 |---|---|---|
 |main|creation of README.md file|following the GitHub Guide|
-|Readme-edits|writing in said file|Why not?|
+|~~Readme-edits~~|writing in said file|Why not?|
 
 Current TO_DO list:
 
 - [x] Create new branch
-- [ ] Merge said branch
+- [x] Merge said branch
 - [ ] Get hired already
