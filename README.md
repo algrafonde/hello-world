@@ -11,6 +11,7 @@ For now, this have been the only branches (~~striked~~ means already merged)
 |~~Readme-edits~~|writing in said file|Why not?|
 
 I'm just adding this line to test pushing from terminal.
+Test was successful, changes were commited without problems.
 
 Current TO_DO list:
 
