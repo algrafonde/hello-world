@@ -10,6 +10,8 @@ For now, this have been the only branches (~~striked~~ means already merged)
 |main|creation of README.md file|following the GitHub Guide|
 |~~Readme-edits~~|writing in said file|Why not?|
 
+I'm just adding this line to test pushing from terminal.
+
 Current TO_DO list:
 
 - [x] Create new branch
