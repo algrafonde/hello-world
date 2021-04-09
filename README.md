@@ -12,6 +12,7 @@ For now, this have been the only branches (~~striked~~ means already merged)
 
 I'm just adding this line to test pushing from terminal.
 Test was successful, changes were commited without problems.
+This time is just to test if I can use the PAT.
 
 Current TO_DO list:
 
